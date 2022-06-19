@@ -1,0 +1,19 @@
+name = "space"
+license = "MIT"
+licenselink = "https://github.com/fajarbaiz/hugo-theme-space/blob/master/LICENSE"
+description = "Moments piled up. A simple, elegant blog theme."
+homepage = "https://fajars.space/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Fajar Nugroho"
+  homepage = "https://fajars.space"
+
+
+# If porting an existing theme
+[original]
+  name = "Fajar A Nugroho"
+  homepage = "https://fajars.space"
+  repo = "https://github.com/FajarBaiz/hugo-theme-space"
